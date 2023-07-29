@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+I'm Bradford. I'm currently working on becoming a Software Developer through Tech Elevator.
+
+Here's how to reach me: 
+email: bradford.arick@gmail.com
